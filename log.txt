@@ -1,0 +1,6 @@
+install lib
+sudo apt-get install espeak
+pyttsx3
+speech_recoganition
+pyaudio
+numpy

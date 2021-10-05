@@ -1,0 +1,7 @@
+# Open a file
+x = input("something:")
+fo = open("userdb.txt", "w")
+fo.write( x)
+
+# Close opend file
+fo.close()
